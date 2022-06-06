@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>webpage 2</title>
+</head>
+<body bgcolor="skyblue">
+<h1>Headding </h1>
+<ul>
+<li>html</li>
+<li>css</li>
+<li>javascript</li>
+<li>lakshmi</li>
+</ul>
+<ol style type="A">
+<li>html</li>
+<li>css</li>
+<li>javascript</li>
+<li>lakshmi</li>
+</ol>
+<ol>
+<li>html</li>
+<li>css</li>
+<li>javascript</li>
+<li>lakshmi</li>
+</ol>
+</body>
+</html>
