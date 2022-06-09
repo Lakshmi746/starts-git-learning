@@ -1,16 +1,7 @@
 <html>
-    <head>
-        <tile>sass</tile>
-        <link href="sass/main.css" rel="stylesheet" type="text/css">
-    </head>
-        <body>
-            <nav>
-                <ul>
-                    <li> <a href="">Home</a> </li>
-                    <li> <a href="">About Us</a> </li>
-                    <li> <a href="">Services</a> </li>
-                    <li> <a href="">Contact</a> </li>
-                </ul>
-            </nav>
-        </body>
- </html>   
+<head>
+<title>web page development</title>
+</head>
+<body>welcome</body>
+</head>
+</html>
